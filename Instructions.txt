@@ -1,0 +1,1 @@
+run the mvn spring-boot:run command in the terminal inside the "goldeneye-master" directory 
